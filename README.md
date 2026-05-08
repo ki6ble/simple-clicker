@@ -3,3 +3,5 @@ just a simple clicker game with shop in which you can upgrade your clicks (as in
 where you bet your money and either win double or lose your bet. 
 
 it can get your attention for a couple of minutes so i think as a first project for me its a success.
+
+to run it just download everything in this repository and run a bat file
